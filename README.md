@@ -23,7 +23,7 @@ En este código, se inicializa ROS, crea un publicador para enviar comandos de v
 *Segundo Script:* https://github.com/dricaurte29/LAB3_Robotica-2024-1/blob/5e2bddc1a95a71f3d0e96a30c07e136c9d061fca/scriptsMatlab/turtle1.m
 En este código se realiza una conexión conROS, se obtiene información referente a la posición y orientación de la tortuga y luego cierra la conexión con ROS.
 
-![Funcionamiento del segundo script](media/rosmat2.png)
+![Funcionamiento del segundo script](media/robmat2.png)
 
 *Tercer Script:* https://github.com/dricaurte29/LAB3_Robotica-2024-1/blob/5e2bddc1a95a71f3d0e96a30c07e136c9d061fca/scriptsMatlab/turtle2.m
 En este código se establece una conexión con ROS, se utiliza un servicio para teleportar la tortuga a una nueva posición y orientación, y luego se cierra la conexión con ROS.
